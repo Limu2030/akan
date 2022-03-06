@@ -3,9 +3,9 @@
   /* background-repeat: repeat-x; */
   /* background-size: 50% 50px; */
   padding: 100px 50px;
-  background-position: top left;
   width: 100%;
-  background: cover;
+  margin: 0%;
+  box-sizing: border-box;
 }
 
 .bg-para {

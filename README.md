@@ -11,9 +11,9 @@
 ## Table of Contents
 
 - [Description](#Description)
-- [Features]
-- [Installation and Set-up]
-- [Known Bugs]
+-  Features
+-  Installation and Set-up
+-  Known Bugs
 - [Technology Used](#technologies-used)
 - [Licence](#licence)
 - [Authors Info](#author-Info)
@@ -27,11 +27,11 @@
 ## Features
 
 <p>Here are the features in summary:
-Input month of birth.
-Input day of birth.
-Input year  of birth.
-Select Gender.
-Output Akan name.
+- Input month of birth.
+- Input day of birth.
+- Input year  of birth.
+- Select Gender.
+- Output Akan name.
 <p>
         
 ## Installation and Set-up
