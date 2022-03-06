@@ -29,7 +29,7 @@
 
 ## Licence
 
-[MIT LICENCE] (https://github.com/Limu2030/akan#licence)
+[MIT LICENCE] (https://github.com/Limu2030/akan/blob/master/LICENSE)
 
 ## Authors Info
 
