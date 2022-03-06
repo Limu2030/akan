@@ -14,5 +14,12 @@ function getName(){
     var female = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"]
     var weekDay = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
+    if (gender == "female"){
+        output.innerText = "The day of the week you were born is" + " " + weekDay[formulaWeekDay] + " " + "hence your akan name is" + " " + female[formulaWeekDay] 
+        } else if (gender == "male"){
+        output.innerText = "The day of the week you were born is" + " " + weekDay[formulaWeekDay] + " " + "your akan name is" + " "+ male[formulaWeekDay] 
+        
+        }
+
 }
 
