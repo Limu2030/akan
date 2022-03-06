@@ -29,7 +29,7 @@ function getName() {
     "Saturday",
   ];
 
-  if (gender == "male") {
+  if (gender == "female") {
     output.innerText =
       "The day of the week you were born is" +
       " " +
@@ -38,7 +38,7 @@ function getName() {
       "hence your akan name is" +
       " " +
       female[formulaWeekDay];
-  } else if (gender == "female") {
+  } else if (gender == "male") {
     output.innerText =
       "The day of the week you were born is" +
       " " +
