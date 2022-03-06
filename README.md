@@ -26,11 +26,10 @@
 ## Live Link
 
 #### (https://limu2030.github.io/akan/)
-      
+
 ## Licence
 
-[MIT LICENCE]
-<!-- (https://github.com/Limu2030/my-portfolio/blob/master/LICENSE) -->
+[MIT LICENCE] (https://github.com/Limu2030/akan#licence)
 
 ## Authors Info
 
