@@ -21,7 +21,7 @@
 
 - CSS - used in the styling of the webpage
 
-- CSS - used in controlling the behaviour of the webpage
+- JavaScript - used in webpage behavior
 
 ## Live Link
 
