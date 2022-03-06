@@ -1,17 +1,23 @@
-.backgroundpic {
-    
+.bg-image {
+  background-image: url(image3.jpg);
+  /* background-repeat: no-repeat; */
+  /* background-size: 50% 50px; */
+  padding: 0px;
+  background-position: center;
+}
+
+.bg-para {
+  background-color: burlywood;
 }
 
 #getname-btn {
-    color:azure;
-    font-weight: bolder;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    width: 200px;
-    border-radius: 5px;
-    background-color: brown;
-    margin-bottom: 5px;
-
-    
+  color: azure;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 200px;
+  border-radius: 5px;
+  background-color: brown;
+  margin-bottom: 5px;
+  margin-top: 30px;
 }
-
