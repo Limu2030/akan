@@ -17,6 +17,8 @@ function getName() {
       26 * Math.floor((MM + 1) / 10) +
       DD) %
     7;
+    formulaWeekDay = new Date(fullDate).getDay()
+   
   var male = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", " Kofi", "Kwame"];
   var female = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
   var weekDay = [
