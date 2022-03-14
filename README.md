@@ -11,9 +11,6 @@
 ## Table of Contents
 
 - [Description](#Description)
--  Features
--  Installation and Set-up
--  Known Bugs
 - [Technology Used](#technologies-used)
 - [Licence](#licence)
 - [Authors Info](#author-Info)
