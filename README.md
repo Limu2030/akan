@@ -28,14 +28,14 @@
 
 ## Live Link
 
-#### 
+#### https://limu2030.github.io/akan/
 
 ## Licence
 
 MIT License
 
 Copyright (c) 2022 Lillian Muita
-
+#### https://github.com/Limu2030/akan/edit/master/LICENSE
 
 
 ## Authors Info
